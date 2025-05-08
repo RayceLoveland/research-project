@@ -1,0 +1,50 @@
+Year,Country,Value
+1939,United States,0
+1940,United States,0
+1941,United States,1620000
+1942,United States,3970000
+1943,United States,9020000
+1944,United States,11410000
+1945,United States,11430000
+1939,Germany,4522000
+1940,Germany,5762000
+1941,Germany,7309000
+1942,Germany,8410000
+1943,Germany,9480000
+1944,Germany,9420000
+1945,Germany,7830000
+1939,United Kingdom,480000
+1940,United Kingdom,2273000
+1941,United Kingdom,3383000
+1942,United Kingdom,4091000
+1943,United Kingdom,4761000
+1944,United Kingdom,4967000
+1945,United Kingdom,5090000
+1939,Soviet Union,0
+1940,Soviet Union,5000000
+1941,Soviet Union,7100000
+1942,Soviet Union,11340000
+1943,Soviet Union,11858000
+1944,Soviet Union,12225000
+1945,Soviet Union,12100000
+1939,Italy,1740000
+1940,Italy,2340000
+1941,Italy,3227000
+1942,Italy,3810000
+1943,Italy,3815000
+1944,Italy,0
+1945,Italy,0
+1939,Japan,0
+1940,Japan,1630000
+1941,Japan,2420000
+1942,Japan,2840000
+1943,Japan,3700000
+1944,Japan,5380000
+1945,Japan,7730000
+1939,France,5000000
+1940,France,7000000
+1941,France,0
+1942,France,0
+1943,France,0
+1944,France,0
+1945,France,0
